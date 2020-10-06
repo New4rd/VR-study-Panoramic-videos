@@ -1,0 +1,4 @@
+Photo_ID	DUO_3m50
+Question_number	2
+SessionTime	TrialTime	Distance	Question	Chrono	Answer
+103.9631	104.9631	DUO_3m50	2	0.6266937	0

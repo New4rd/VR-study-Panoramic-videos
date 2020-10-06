@@ -1,0 +1,5 @@
+Interphase_duration	3
+Interscene_duration	1
+Minimal_pause_duration	10
+Direction_threshold	15
+Block_order	2,3,1

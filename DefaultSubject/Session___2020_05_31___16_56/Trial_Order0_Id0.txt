@@ -1,0 +1,4 @@
+Photo_ID	DUO_4m50
+Question_number	2
+SessionTime	TrialTime	Distance	Question	Chrono	Answer
+100.6715	101.6715	DUO_4m50	2	16.62827	0
